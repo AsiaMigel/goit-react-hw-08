@@ -1,0 +1,24 @@
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 12px;
+  }
+  .link:hover {
+    color: rgb(74, 6, 77);
+    font-size: 24px;
+  }
+
+  .isActive {
+    color: rgb(74, 6, 77);
+    font-size: 24px; 
+    text-decoration: underline;
+  }
+  
+  .navAuth {
+    margin-right: 20px;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
