@@ -6,12 +6,12 @@
     padding: 12px;
   }
   .link:hover {
-    color: rgb(74, 6, 77);
+    color: rgb(180, 215, 23);
     font-size: 24px;
   }
 
   .isActive {
-    color: rgb(74, 6, 77);
+    color: rgb(180, 215, 23);
     font-size: 24px; 
     text-decoration: underline;
   }

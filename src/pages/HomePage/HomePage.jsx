@@ -14,7 +14,7 @@ export default function HomePage() {
                 <>
                     <PageTitle>To get started, please log in!</PageTitle>
                     <p className={css.register}>
-                        or <Link to="/register">register</Link>
+                        or <Link to="/register">REGISTER</Link>
                     </p>
                 </>
             )}
