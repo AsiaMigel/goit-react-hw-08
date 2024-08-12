@@ -29,7 +29,7 @@
     letter-spacing: 0.03em;
   }
   .accent:hover {
-    color: rgb(79, 20, 156);
+    color: rgb(213, 239, 21);
     font-size: 24px;
   }
   .link {
@@ -39,8 +39,8 @@
     font-weight: 700;
   }
   /* .link:hover {
-    color: rgb(84, 39, 143);
+    color: rgb(156, 206, 19);
   }
   .isActive {
-    color: rgb(43, 22, 165);
+    color: rgb(169, 237, 22);
   } */
